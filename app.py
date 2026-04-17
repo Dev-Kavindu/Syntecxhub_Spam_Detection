@@ -1,3 +1,16 @@
+# ============================================================
+# PROJECT: Email Spam Detection System
+# AUTHOR: Kavindu Chamod
+# DESCRIPTION: A machine learning web application to detect spam emails.
+#
+# HOW TO RUN:
+# 1. Install dependencies: pip install -r requirements.txt
+# 2. Run the app: streamlit run app.py (or python app.py)
+#
+# REQUIRED FILES: spam_model.pkl, vectorizer.pkl
+# ============================================================
+
+
 import os
 import pickle
 import re
